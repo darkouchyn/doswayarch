@@ -1,2 +1,1 @@
-# doswayarch
-my take on archlinux swaywm
+# This is my take on Arch Linux Sway
